@@ -1,4 +1,5 @@
 # REVAMP_ASSIGN_9
+
 # Explore Menu
 
 This is a simple webpage that displays an "Explore Menu" section with multiple cards. Each card showcases a menu item with an image, title, and a "View More" button.
@@ -8,20 +9,7 @@ This is a simple webpage that displays an "Explore Menu" section with multiple c
 - HTML
 - Tailwind CSS
 - Google Fonts
-
-## How to Run the Project
-
-1. **Clone the repository** (if applicable):
-    ```bash
-    git clone <repository-url>
-    cd <repository-folder>
-    ```
-
-2. **Open the `index.html` file in your browser**:
-    - Double-click on `index.html` file.
-    - Or, right-click on the `index.html` file and choose "Open with" your preferred web browser.
-
-
+- 
 ## HTML Structure
 
 - **Head Section**:
@@ -47,17 +35,7 @@ This is a simple webpage that displays an "Explore Menu" section with multiple c
   - Image URL: [Ginger Fried Image](https://ik.imagekit.io/4z8covdo9/Full%20stack/em-ginger-fried-img.png?updatedAt=1702351480869)
   - [ImageKit](https://imagekit.io)
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-If you would like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out.
 
 
 
